@@ -1,0 +1,4 @@
+*.ipynb_checkpoints/*
+*-checkpoint.ipynb
+/Stepik_ML_course/*
+*.idea*
